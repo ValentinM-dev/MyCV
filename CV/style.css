@@ -1,0 +1,54 @@
+header {
+    text-align: center;
+    border-bottom: 1px solid;
+}
+.perso {
+    float: inline-start;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.formations {
+    float: left;
+    width: 310px;
+    padding-right: 15px;
+    position: absolute;
+    bottom: 12px;
+    border-right: 1px solid;
+    border-top: 1px solid;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h2 {
+    color: lightblue;
+}
+
+h3 {
+    color: lightblue;
+}
+
+time {
+    font-size: smaller;
+}
+
+address {
+    font-size: small;
+    text-decoration: none;
+}
+
+body {
+    width: 615px;
+}
+
+.experience {
+    float: right;
+    width: 310px;
+    padding-left: 15px;
+}
